@@ -1,0 +1,13 @@
+Interaktivní Slovníček
+
+Jak spustit:
+1. Zapnout WAMP
+2. Otevřít phpMyAdmin
+3. Importovat databázi slovnicek.sql do MySQL
+3. Otevřít slovnicek/index.php
+4. Zaregistrovat se nebo se přihlásit na demo účet
+        Demo účet
+            Jméno: demo
+            Heslo: Demo1234
+
+Bližší info o projektu v README.md
